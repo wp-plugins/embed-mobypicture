@@ -5,7 +5,7 @@ Requires at least: 2.8
 Tested up to: 2.8.4
 Stable tag: 1.0
 
-Embed Mobypicture in your posts or pages
+Embed Mobypicture photos or videos in your posts or pages
 
 == Description ==
 
